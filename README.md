@@ -1,4 +1,5 @@
 
+!pip install -q pypdf scikit-learn gradio
 # TASK 2: AI RESUME SCREENING SYSTEM
 # Python + Gradio | Google Colab
 
